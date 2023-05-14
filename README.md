@@ -30,24 +30,27 @@ Json power db is the ultimate db for developers who want to work with JSON data.
 
 Initially,
 
-![image]
+![image](https://github.com/Rajykattoju/StudentPortal/assets/34054117/e096f0b1-5550-45b6-8515-84af8fca9b76)
 
 Lets **SAVE** the details of student, after entering the rollno it will enable other feilds depending on the rollno entered.
 If the User clicks on SAVE button without filling the required details, it will prompt to fill details
-![image]
 
 The alerts on the input will be vanished once user enters the required input and shows the input box in green as successful input
-![image]
+![image](https://github.com/Rajykattoju/StudentPortal/assets/34054117/12206d35-a25f-4729-a8ac-6b499f9e51db)
 
 click on SAVE button to save the details, an alert on top of the page displays whether the operation is success or failure.
 And resets the page for contiuing with other operations
-![image]
+![image](https://github.com/Rajykattoju/StudentPortal/assets/34054117/75b055aa-e345-42c3-88e5-ca395044eaef)
 
 If the operation fails, the alert will be red with appropriate msg
 If the entered rollno exist in db, all the feilds are filled and user **CHANGE** the details and update by clicking on change button.
 The **RESET** button is to reset all the feild to continue.
 
 ### Demo
+
+https://github.com/Rajykattoju/StudentPortal/assets/34054117/03ca9d09-d80c-460f-be20-c752080ba716
+
+
 
 
 ### Sources
