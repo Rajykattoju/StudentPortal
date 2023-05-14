@@ -202,8 +202,6 @@ function saveData() {
     }
     //After saving to databse resent from data 
     resetForm();
-
-    $('#empid').focus();
 }
 
 //Function used to make UPDATE Request
